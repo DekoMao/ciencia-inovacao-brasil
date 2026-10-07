@@ -6,7 +6,9 @@ Repositório de pesquisa e comunicação para Wanderley Uchôa (Deko), com dados
 
 Recuperação parcial de artigos em 2024; crescimento dos pedidos de patentes por residentes; recuo da taxa de inovação industrial. Indicadores de períodos e universos distintos: não resumem todo o sistema nem demonstram causalidade por governo.
 
-**Infográficos:** as imagens originais estão preservadas em `infograficos/*.png.base64`. Execute `python scripts/restaurar_imagens.py` para restaurar os PNGs sem perda. A integração GitHub retornou erro interno ao gravar blobs binários; esta representação mantém os bytes originais.
+![Ciência e inovação no Brasil](infograficos/ciencia-inovacao-resultados.png)
+
+![Contexto e inflação](infograficos/ciencia-contexto-inflacao.png)
 
 ## Conteúdo
 
