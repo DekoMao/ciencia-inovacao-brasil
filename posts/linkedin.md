@@ -1,8 +1,8 @@
 # CIÊNCIA, INOVAÇÃO E QUALIDADE: UMA ANÁLISE BASEADA EM EVIDÊNCIAS
 
-Na fase de conclusão da minha graduação em Tecnologia em Gestão da Qualidade, desenvolvi um estudo exploratório sobre financiamento, produção científica e inovação no Brasil, como exercício de aplicação dos conhecimentos adquiridos.
+Na fase de conclusão da minha graduação em Tecnologia em Gestão da Qualidade na UniBF, desenvolvi um estudo exploratório sobre financiamento, produção científica e inovação no Brasil, como exercício de aplicação dos conhecimentos adquiridos.
 
-O trabalho também integra a continuidade da minha formação na pós-graduação em Análise de Dados e na segunda graduação em Engenharia de Software. Essa trajetória amplia minha capacidade de conectar gestão, análise de evidências e desenvolvimento de soluções tecnológicas.
+O trabalho também integra a continuidade da minha formação na pós-graduação em Data Science pela Uniamérica e na segunda graduação em Engenharia de Software no Centro Universitário Estácio do Amazonas. Essa trajetória amplia minha capacidade de conectar gestão, análise de evidências e desenvolvimento de soluções tecnológicas.
 
 A análise partiu de uma questão: em que medida os indicadores disponíveis demonstram avanços na produção científica e na inovação brasileira?
 
@@ -22,11 +22,11 @@ Também foram examinados exemplos de aplicação do conhecimento, como a fixaç�
 
 Para minha formação, o estudo representa uma oportunidade de aplicar princípios essenciais da Qualidade: rastreabilidade, consistência dos critérios, análise crítica e tomada de decisão baseada em evidências.
 
-A conexão com Análise de Dados e Engenharia de Software acrescenta outra dimensão: organizar informações de forma estruturada, tornar os cálculos reproduzíveis e documentar o processo para permitir sua verificação.
+A conexão com Data Science e Engenharia de Software acrescenta outra dimensão: organizar informações de forma estruturada, tornar os cálculos reproduzíveis e documentar o processo para permitir sua verificação.
 
 Compartilho este trabalho como parte do meu desenvolvimento acadêmico e profissional. Trata-se de uma análise exploratória de dados públicos, elaborada com apoio de IA, sem revisão técnica independente e aberta a contribuições e correções.
 
 Dados, metodologia, referências e infográficos:
 https://github.com/DekoMao/ciencia-inovacao-brasil
 
-#GestãoDaQualidade #AnáliseDeDados #EngenhariaDeSoftware #PesquisaAplicada #AprendizadoContínuo
+#GestãoDaQualidade #DataScience #AnáliseDeDados #EngenhariaDeSoftware #PesquisaAplicada #AprendizadoContínuo
