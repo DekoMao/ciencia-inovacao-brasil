@@ -1,41 +1,32 @@
-# Post para LinkedIn — versão final
+# CIÊNCIA, INOVAÇÃO E QUALIDADE: UMA ANÁLISE BASEADA EM EVIDÊNCIAS
 
-📊 Ciência e inovação no Brasil: estamos avançando?
+Na fase de conclusão da minha graduação em Tecnologia em Gestão da Qualidade, desenvolvi um estudo exploratório sobre financiamento, produção científica e inovação no Brasil, como exercício de aplicação dos conhecimentos adquiridos.
 
-Ao analisar os investimentos em ciência, fui além do orçamento: busquei indicadores de produção científica, inovação industrial e patentes.
+O trabalho também integra a continuidade da minha formação na pós-graduação em Análise de Dados e na segunda graduação em Engenharia de Software. Essa trajetória amplia minha capacidade de conectar gestão, análise de evidências e desenvolvimento de soluções tecnológicas.
 
-O diagnóstico é misto. Temos avanços importantes, mas a melhora ainda não aparece em todas as dimensões.
+A análise partiu de uma questão: em que medida os indicadores disponíveis demonstram avanços na produção científica e na inovação brasileira?
 
-🔬 PRODUÇÃO CIENTÍFICA: RECUPERAÇÃO PARCIAL
+Com apoio de inteligência artificial, organizei informações de fontes públicas, incluindo Bori–Elsevier, IBGE, INPI e WIPO. O procedimento envolveu consulta documental, comparação descritiva de indicadores e registro dos cálculos, fontes e limitações.
 
-O Brasil publicou 73.220 artigos em 2024, crescimento de 4,5% sobre 2023, segundo Bori–Elsevier, considerando documentos do tipo article na Scopus. O volume ficou aproximadamente 11,2% abaixo dos 82.440 de 2021.
+Os resultados apontaram um cenário heterogêneo:
 
-🏭 INOVAÇÃO INDUSTRIAL: RECUO
+• A produção científica registrada na Scopus cresceu 4,5% em 2024 em relação a 2023, mas permaneceu aproximadamente 11,2% abaixo do volume de 2021.
 
-Na PINTEC Semestral/IBGE, a proporção de empresas industriais com 100 ou mais pessoas ocupadas que inovaram passou de 70,5% em 2021 para 64,4% em 2024: queda de 6,1 pontos percentuais. O indicador não mede o valor econômico das inovações.
+• A proporção de empresas industriais com 100 ou mais pessoas ocupadas que inovaram passou de 70,5% em 2021 para 64,4% em 2024.
 
-💡 PATENTES: CRESCIMENTO DOS PEDIDOS DE RESIDENTES
+• Os pedidos de patentes de residentes no Brasil aumentaram 11,6% entre 2023 e 2024.
 
-Os pedidos passaram de 7.435 em 2023 para 8.301 em 2024: alta de 11,6%, conforme INPI. Depósito não comprova concessão, comercialização ou retorno econômico.
+Esses resultados sugerem recuperação parcial da produção científica e crescimento do patenteamento por residentes, acompanhados de recuo na taxa de inovação industrial. Como os indicadores possuem universos e períodos distintos, não permitem concluir que houve melhora generalizada nem atribuir suas variações exclusivamente a um governo.
 
-🌎 POSIÇÃO INTERNACIONAL
+Também foram examinados exemplos de aplicação do conhecimento, como a fixação biológica de nitrogênio, o Pix, a vacina Butantan-DV, o Sirius e os sistemas PRODES e DETER. Suas trajetórias reforçam a importância da continuidade da pesquisa e da articulação entre instituições.
 
-No Índice Global de Inovação, o Brasil passou do 50º lugar em 2024 para o 53º em 2026. O ranking é relativo e sofre alterações metodológicas. A WIPO reconhece desempenho acima do esperado para seu nível de desenvolvimento.
+Para minha formação, o estudo representa uma oportunidade de aplicar princípios essenciais da Qualidade: rastreabilidade, consistência dos critérios, análise crítica e tomada de decisão baseada em evidências.
 
-✅ ENTREGAS RELEVANTES
+A conexão com Análise de Dados e Engenharia de Software acrescenta outra dimensão: organizar informações de forma estruturada, tornar os cálculos reproduzíveis e documentar o processo para permitir sua verificação.
 
-• Fixação biológica de nitrogênio na soja: reduz necessidade de fertilizantes; estimativa institucional da Embrapa aponta economia anual de US$8 bilhões (ano-base não identificado na página consultada).
-• Pix: infraestrutura de pagamentos instantâneos em operação desde 2020.
-• Butantan-DV: vacina de dengue em dose única, aprovada em 2025 e com aplicação no SUS em 2026.
-• Sirius: infraestrutura de pesquisa em materiais, saúde e energia.
-• PRODES e DETER: dados e alertas ambientais para políticas públicas e fiscalização.
+Compartilho este trabalho como parte do meu desenvolvimento acadêmico e profissional. Trata-se de uma análise exploratória de dados públicos, elaborada com apoio de IA, sem revisão técnica independente e aberta a contribuições e correções.
 
-Essas entregas têm trajetórias diferentes, muitas delas construídas ao longo de décadas. Não representam, por si só, retorno dos editais comparados.
+Dados, metodologia, referências e infográficos:
+https://github.com/DekoMao/ciencia-inovacao-brasil
 
-Como profissional de Qualidade e Dados, vejo uma exigência: acompanhar recursos, execução, resultados e adoção. A evidência aponta recuperação científica parcial, crescimento do patenteamento por residentes e recuo da taxa de inovação industrial. Não sustenta melhora generalizada ou atribuição exclusiva a um governo.
-
-Qual resultado você considera mais importante para demonstrar o retorno da ciência à sociedade?
-
-Fontes: Bori–Elsevier, IBGE, INPI, WIPO, Embrapa, BCB, Butantan, CNPEM e INPE. Referências completas no repositório.
-
-#CiênciaETecnologia #Inovação #AnáliseDeDados #GestãoDaQualidade #Indústria
+#GestãoDaQualidade #AnáliseDeDados #EngenhariaDeSoftware #PesquisaAplicada #AprendizadoContínuo
