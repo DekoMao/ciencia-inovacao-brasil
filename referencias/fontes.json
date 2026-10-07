@@ -1,0 +1,194 @@
+[
+  {
+    "id": "S01",
+    "instituicao": "Bori–Elsevier",
+    "titulo": "2024: retomada do crescimento da produção científica",
+    "url": "https://abori.com.br/relatorios/bori-elsevier-2024-retomada-producao-cientifica/",
+    "escopo": "Sumário executivo consultado; base Scopus, somente article",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S02",
+    "instituicao": "IBGE",
+    "titulo": "PINTEC Semestral",
+    "url": "https://www.ibge.gov.br/estatisticas/multidominio/ciencia-tecnologia-e-inovacao/35867-pesquisa-de-inovacao-semestral.html",
+    "escopo": "Indicadores básicos 2021, 2023 e 2024; indústria com 100+ pessoas",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S03",
+    "instituicao": "INPI",
+    "titulo": "Anuário Estatístico de Propriedade Industrial 2024",
+    "url": "https://www.gov.br/inpi/pt-br/inpi-data/relatorios/anuario-estatistico-pi-2024.pdf",
+    "escopo": "Publicado em 2025; seção Patentes, páginas 73 e 76",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S04",
+    "instituicao": "WIPO",
+    "titulo": "Global Innovation Index 2024: results",
+    "url": "https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html",
+    "escopo": "Posição do Brasil em 2024",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S05",
+    "instituicao": "WIPO",
+    "titulo": "Global Innovation Index 2025: Brazil",
+    "url": "https://www.wipo.int/edocs/gii-ranking/2025/br.pdf",
+    "escopo": "Perfil de 2025",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S06",
+    "instituicao": "WIPO",
+    "titulo": "Global Innovation Index 2026: results",
+    "url": "https://www.wipo.int/web-publications/global-innovation-index-2026/en/gii-2026-results.html",
+    "escopo": "Ranking e ressalvas de comparação",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S07",
+    "instituicao": "Embrapa",
+    "titulo": "Fixação Biológica de Nitrogênio",
+    "url": "https://www.atermaisdigital.cnptia.embrapa.br/web/mudancas-climaticas/mitigacao/fixacao-biologica-de-nitrogenio",
+    "escopo": "Estimativa institucional; ano-base não identificado",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S08",
+    "instituicao": "Banco Central",
+    "titulo": "BC institui o Pix e aprova seu Regulamento",
+    "url": "https://www.bcb.gov.br/detalhenoticia/17153/nota",
+    "escopo": "Operação plena em 16/11/2020",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S09",
+    "instituicao": "Instituto Butantan",
+    "titulo": "Vacina da dengue em dose única aprovada pela Anvisa",
+    "url": "https://www.butantan.gov.br/noticias/vacina-da-dengue-do-instituto-butantan-primeira-do-mundo-em-dose-unica-e-aprovada-pela-anvisa",
+    "escopo": "26/11/2025",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S10",
+    "instituicao": "Instituto Butantan",
+    "titulo": "Vacina mantém 80,5% de eficácia contra casos graves e sinais de alerta",
+    "url": "https://butantan.gov.br/noticias/vacina-da-dengue-do-butantan-mantem-805-de-eficacia-contra-casos-graves-e-com-sinais-de-alerta-apos-cinco-anos",
+    "escopo": "05/03/2026; resultados e aplicação no SUS",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S11",
+    "instituicao": "CNPEM/LNLS",
+    "titulo": "Quinta chamada de propostas para Sirius",
+    "url": "https://lnls.cnpem.br/noticias/cnpem-divulga-selecionados-na-quinta-chamada-de-propostas-de-pesquisa-para-sirius/",
+    "escopo": "09/05/2025; 161 aprovados de 443 submetidos",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S12",
+    "instituicao": "INPE",
+    "titulo": "PRODES",
+    "url": "https://data.inpe.br/biomasbr/prodes-monitoramento-anual-da-supressao-de-vegetacao-nativa/",
+    "escopo": "Monitoramento anual de supressão",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S13",
+    "instituicao": "INPE",
+    "titulo": "TerraBrasilis",
+    "url": "https://terrabrasilis.dpi.inpe.br/",
+    "escopo": "PRODES e DETER; dados e alertas",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S14",
+    "instituicao": "IBGE",
+    "titulo": "IPCA: séries históricas",
+    "url": "https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?t=series-historicas",
+    "escopo": "2022:5,79%;2023:4,62%;2024:4,83%",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S15",
+    "instituicao": "CAPES",
+    "titulo": "CAPES e CNPq aumentam bolsas de pós-graduação",
+    "url": "https://www.gov.br/capes/pt-br/assuntos/noticias/capes-e-cnpq-aumentam-bolsas-de-pos-graduacao-em-40/",
+    "escopo": "Reajuste de 2023",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S16",
+    "instituicao": "CNPq",
+    "titulo": "Chamada Universal 2024",
+    "url": "https://www.gov.br/cnpq/pt-br/assuntos/noticias/cnpq-em-acao/chamada-universal-2024-aceita-submissoes-de-propostas-ate-30-01",
+    "escopo": "R$ 450 milhões anunciados",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S17",
+    "instituicao": "CTI/MCTI",
+    "titulo": "Universal de R$250 milhões",
+    "url": "https://www.gov.br/cti/pt-br/assuntos/noticias/oportunidade-cnpq-mcti-lanca-chamada-publica-universal-de-r-250-milhoes/",
+    "escopo": "Chamada 18/2021",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S18",
+    "instituicao": "Senado",
+    "titulo": "MP limita recursos do FNDCT",
+    "url": "https://www12.senado.leg.br/noticias/materias/2022/08/29/mp-editada-nesta-segunda-feira-impoe-limites-para-aplicacao-de-recursos-do-fndct",
+    "escopo": "MP 1136/2022",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S19",
+    "instituicao": "Congresso",
+    "titulo": "Tramitação MP 1136/2022",
+    "url": "https://www.congressonacional.leg.br/pt_BR/materias/medidas-provisorias/-/mpv/154595",
+    "escopo": "Perda de eficácia em 05/02/2023",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S20",
+    "instituicao": "Planalto",
+    "titulo": "Lei Complementar 200/2023",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp200.htm",
+    "escopo": "Novo regime fiscal",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S21",
+    "instituicao": "IBGE",
+    "titulo": "PIB 2020 cai 3,3%",
+    "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/35349-com-servicos-afetados-pela-pandemia-pib-de-2020-cai-3-3",
+    "escopo": "Série anual revisada",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S22",
+    "instituicao": "CAPES",
+    "titulo": "Orçamento 2019 com crédito adicional",
+    "url": "https://www.gov.br/capes/pt-br/assuntos/noticias/capes-fecha-ano-com-credito-adicional-de-r-200-milhoes",
+    "escopo": "R$4,19 bilhões de orçamento; não confundir com execução",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S23",
+    "instituicao": "CNPq",
+    "titulo": "Nova chamada INCT",
+    "url": "https://www.gov.br/cnpq/pt-br/assuntos/noticias/cnpq-em-acao/cnpq-lanca-nova-chamada-para-o-programa-institutos-nacionais-de-ciencia-e-tecnologia-inct",
+    "escopo": "2022: R$300mi iniciais; complementação 2023; financiamento multi-institucional",
+    "acesso": "2026-10-07"
+  },
+  {
+    "id": "S24",
+    "instituicao": "Finep",
+    "titulo": "Execução orçamentária e financeira do FNDCT",
+    "url": "https://www.finep.gov.br/a-finep-externo/fndct/execucao-orcamentaria-e-financeira",
+    "escopo": "Base localizada; totais da imagem original não reproduzidos",
+    "acesso": "2026-10-07"
+  }
+]
