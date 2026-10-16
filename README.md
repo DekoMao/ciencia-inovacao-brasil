@@ -1,6 +1,6 @@
 # Ciência e inovação no Brasil: evidências, contexto e resultados
 
-Repositório de pesquisa e comunicação para Wanderley Uchôa (Deko), com dados públicos, fontes rastreáveis, metodologia, gráficos e post para LinkedIn. Data de corte: **07/10/2026**.
+Repositório de pesquisa e comunicação para Wanderley Uchôa, com dados públicos, fontes rastreáveis, metodologia, gráficos e post para LinkedIn. Data de corte: **07/10/2026**.
 
 ## Resultado principal
 
